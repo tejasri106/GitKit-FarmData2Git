@@ -8,11 +8,11 @@ FarmData2 is a web application for recording and reporting on crop and livestock
 
 ### Installing FarmData2 ###
 
-If you are interesting in trying or using FarmData2 see the [INSTALL Document](INSTALL.md) for information about how to get started.
+If you are interested in trying or using FarmData2 see the [INSTALL Document](INSTALL.md) for information about how to get started.
 
 ### Contributing to FarmData2 ###
 
-If you are interesting in contributing to the development of FarmData2 see the [CONTRIBUTING Document](CONTRIBUTING.md) for information about how to get started.
+If you are interested in contributing to the development of FarmData2 see the [CONTRIBUTING Document](CONTRIBUTING.md) for information about how to get started.
 
 ### Connecting ###
 
